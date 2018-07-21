@@ -1,3 +1,3 @@
 # gyurciburci_test
-tes
+te
 ez itt egy második sor
